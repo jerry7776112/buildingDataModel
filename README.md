@@ -47,4 +47,11 @@
 * Need horizontal scalability(需要水平可擴展性)
 
 ## Exercise 1 - Creating Tables in PostgreSQL using Python
+* 使用python連線至postgreSQL並建立資料表
+* **詳情請參閱[Exercise 1 : Creating a Table with PostgreSQL](https://github.com/jerry7776112/buildingDataModel/blob/main/Exercise%201%20-%20Creating%20a%20Table%20with%20PostgreSQL.ipynb)**
+![architecture](https://github.com/jerry7776112/buildingDataModel/blob/main/architecture/exercise.png "architecture")
+
 ## Project - Building Data Model and Creating Database
+* 根據**[dataset](https://github.com/jerry7776112/buildingDataModel/tree/main/dataset)**設計資料模型建立三個資料表
+* **詳情請參閱[Data Engineer Project1.ipynb](https://github.com/jerry7776112/buildingDataModel/blob/main/Data%20Engineer%20Project1.ipynb)**
+![architecture](https://github.com/jerry7776112/buildingDataModel/blob/main/architecture/project.png "architecture")
