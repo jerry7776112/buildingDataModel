@@ -1,6 +1,6 @@
 # buildingDataModel
 ## 專案說明
-## 專案名稱: 建立資料模型
+## 專案名稱: 資料模型設計實作
 
 ## Basics of Data Models
 ### What is Data Model
