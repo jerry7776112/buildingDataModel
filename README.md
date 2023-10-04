@@ -52,6 +52,6 @@
 ![architecture](https://github.com/jerry7776112/buildingDataModel/blob/main/architecture/exercise.png "architecture")
 
 ## Project - Building Data Model and Creating Database
-* 根據**[dataset](https://github.com/jerry7776112/buildingDataModel/tree/main/dataset)**設計資料模型建立三個資料表
+* 根據 **[dataset](https://github.com/jerry7776112/buildingDataModel/tree/main/dataset)** 設計資料模型建立三個資料表
 * **詳情請參閱[Data Engineer Project1.ipynb](https://github.com/jerry7776112/buildingDataModel/blob/main/Data%20Engineer%20Project1.ipynb)**
 ![architecture](https://github.com/jerry7776112/buildingDataModel/blob/main/architecture/project.png "architecture")
